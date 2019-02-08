@@ -1,0 +1,21 @@
+Sam Furness
+2/8/19
+CHEME5440 PS2
+
+Problem 1 is answered in the CHEME5440HW2.m file. This code asks you what you want to plot and has special inputs. All plots are in
+Appendix A of the PDF. Input a string for each variable following this key:
+Elongation Rate = 'kEj'
+Gene Concentration = 'Gj_'
+RNAP Concentration = 'RXT'
+Rate of Closed Complex Formation = 'kmi'
+rate of Closed Complex Dissociation = 'kpl'
+rate of Open Complex Formation = 'kI_'
+Saturation Constant of Gene and RNAP = 'KXj'
+Time Constant of Gene and RNAP = 'tau'
+Weight for RNAP Binding = 'W1_'
+Weight for RNAP and INducer Binding = 'W2_'
+Cooperativity Constant = 'n__'
+Inducer Saturation Constant = 'K__'
+Rate of mRNA Degration = 'kd_'
+Specific Growth Rate of E. Coli (Dilution) = 'mu_'
+Voigt Saturation Kinetic Term = 'fI_'
