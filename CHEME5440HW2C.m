@@ -110,7 +110,7 @@ S=[1,0,0,0,0,0;
    0,0,0,0,0,1];
 
 %Start by defining a time vector
-T=0.01/60;%Time step in minutes
+T=0.01/60;%Time step in hours
 tsim=linspace(0,360,((6/T)+1));
 x=zeros(6,length(tsim));%preallocate x vector
 
