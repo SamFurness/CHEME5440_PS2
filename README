@@ -19,3 +19,11 @@ Inducer Saturation Constant = 'K__'
 Rate of mRNA Degration = 'kd_'
 Specific Growth Rate of E. Coli (Dilution) = 'mu_'
 Voigt Saturation Kinetic Term = 'fI_'
+
+
+Problem 2B is answered with HW2Run.m that calls the function CHEME5440HW2B.m. Note that the value for W_23 must be changed manually in
+CHEME5440HW2B.m to get the broken circuit.
+
+Problem 2C is answered with CHEME5440HW2C.m and calls the function f.m. Note that the value for W_23 must be changed manually in
+CHEME5440HW2C.m to get the broken circuit. The legend has extra inputs because of the desire to include both plots overlayed on each 
+other.
