@@ -26,4 +26,4 @@ CHEME5440HW2B.m to get the broken circuit.
 
 Problem 2C is answered with CHEME5440HW2C.m and calls the function f.m. Note that the value for W_23 must be changed manually in
 CHEME5440HW2C.m to get the broken circuit. The legend has extra inputs because of the desire to include both plots overlayed on each 
-other. Plotting inducer is commented out.
+other. Plotting inducer is commented out when plotting the methods overlayed.
